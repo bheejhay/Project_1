@@ -1,4 +1,4 @@
-# Awesome documentation of project 1: LAmp Stack Implementation.
+# Awesome documentation of project 1: LAMP Stack Implementation.
 
 
 ## Step 1: Registering Ssh key generated and Connecting my local system to ec2 instance.
